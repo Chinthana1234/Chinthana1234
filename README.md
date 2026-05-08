@@ -26,9 +26,10 @@
 
 ## ✨ About Me
 
-
-
+<small>
 I am a third-year Software Engineering undergraduate from the University of Kelaniya with a passion for solving real-world problems through technology. I have hands-on experience developing modern, scalable, and user-friendly full-stack applications. I thrive in collaborative Agile teams and am always dedicated to writing clean, high-performance code. My primary domains of interest include Data Science,  Net-Centric Web Applications, Health Informatic Application.
+</small>
+
 ---
 
 ## 🧠 Currently Exploring
