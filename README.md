@@ -59,6 +59,15 @@ I am a third-year Software Engineering undergraduate from the University of Kela
 </div>
 
 ---
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chinthana1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="155"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
+
+</div>
 
 
 ## 🌐 Connect With Me
