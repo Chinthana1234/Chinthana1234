@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imansha%20Dilshan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=313E17&text=Chinthana%20Sandeepa&reversal=true&textBg=false&fontColor=F5F5F5&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20AI%20Explorer&fontAlignY=40&descAlign=51&descAlignY=58&fontAlign=50&section=header"100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+scalable%2C+real-world+applications+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -97,7 +97,7 @@ I enjoy solving complex problems, working in collaborative environments, and con
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="313E17"/>
 
 ⭐️ *Thanks for visiting - feel free to explore my repos and drop a star if something catches your eye!*
 
