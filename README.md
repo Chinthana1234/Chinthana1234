@@ -26,20 +26,9 @@
 
 ## ✨ About Me
 
-```ts
-const imansha = {
-  role      : "Software Engineering Undergraduate",
-  university: "University of Kelaniya, Sri Lanka",
-  cgpa      : 3.91,
-  interests : ["Cloud Computing", "Distributed Systems", "AI & Gen AI"],
-  goal      : "Build impactful digital solutions & grow as an innovative leader",
-  funFact   : "I debug with coffee ☕ and ship with passion 🚀",
-};
-```
 
-I'm a passionate software engineering undergraduate who loves building **scalable, real-world applications** and exploring modern technologies.  
-I enjoy solving complex problems, working in collaborative environments, and continuously learning - especially in **cloud computing**, **distributed systems**, and **AI**.
 
+I am a third-year Software Engineering undergraduate from the University of Kelaniya with a passion for solving real-world problems through technology. I have hands-on experience developing modern, scalable, and user-friendly full-stack applications. I thrive in collaborative Agile teams and am always dedicated to writing clean, high-performance code. My primary domains of interest include Data Science,  Net-Centric Web Applications, Health Informatic Application.
 ---
 
 ## 🧠 Currently Exploring
