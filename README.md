@@ -5,17 +5,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+scalable%2C+real-world+applications+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ima-69&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chinthana1234&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0">
+  <a href="www.linkedin.com/in/chinthana-sandeepa-03976a357">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:imansha.idr@gmail.com">
+  <a href="mailto:chinthanasandeepa123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://medium.com/@imansha.idr">
+  <a href="https://medium.com/@chinthanasandeepa123">
     <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
@@ -65,7 +65,7 @@ I am a third-year Software Engineering undergraduate from the University of Kela
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chinthana1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="155"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
+<img src="https://streak-stats.demolab.com?user=Chinthana1234&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
 
 </div>
 
@@ -74,19 +74,19 @@ I am a third-year Software Engineering undergraduate from the University of Kela
 
 <div align="center">
 
-<a href="mailto:imansha.idr@gmail.com">
+<a href="mailto:chinthanasandeepa123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/imanshadilshan">
+<a href="https://github.com/Chinthana1234">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0">
+<a href="www.linkedin.com/in/chinthana-sandeepa-03976a357">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://medium.com/@imansha.idr">
+<a href="https://medium.com/@chinthanasandeepa123">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
