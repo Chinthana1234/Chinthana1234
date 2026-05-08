@@ -1,38 +1,104 @@
-<h1 align="center">Hi 👋, I'm Chinthana Sandeepa</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **MongoDb,Express.js,Node.js**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imansha%20Dilshan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-- 💬 Ask me about **Php**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+scalable%2C+real-world+applications+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-- 📫 How to reach me **chinthanasandeepa123@gmail.com**
-
-- ⚡ Fun fact **Chin**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/chinthana sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinthana sandeepa" height="30" width="40" /></a>
-<a href="https://fb.com/chinthana sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinthana sandeepa" height="30" width="40" /></a>
-<a href="https://instagram.com/c_h_i_n_t_h_a_n_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_h_i_n_t_h_a_n_a" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ima-69&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:imansha.idr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@imansha.idr">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chinthana1234&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+</div>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+---
 
+## ✨ About Me
+
+```ts
+const imansha = {
+  role      : "Software Engineering Undergraduate",
+  university: "University of Kelaniya, Sri Lanka",
+  cgpa      : 3.91,
+  interests : ["Cloud Computing", "Distributed Systems", "AI & Gen AI"],
+  goal      : "Build impactful digital solutions & grow as an innovative leader",
+  funFact   : "I debug with coffee ☕ and ship with passion 🚀",
+};
+```
+
+I'm a passionate software engineering undergraduate who loves building **scalable, real-world applications** and exploring modern technologies.  
+I enjoy solving complex problems, working in collaborative environments, and continuously learning - especially in **cloud computing**, **distributed systems**, and **AI**.
+
+---
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+| ☁️ Cloud Architecture | 🤖 Artificial Intelligence | 🧬 Generative AI |
+|:---:|:---:|:---:|
+| ⚙️ Microservices | 🌐 Distributed Systems | 🔐 DevSecOps |
+
+</div>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+| 🎨 Frontend | ⚙️ Backend |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark) | ![](https://skillicons.dev/icons?i=nodejs,express,spring,java,php&theme=dark) |
+
+| 🗄️ Databases & ☁️ Cloud | 🧰 Tools & DevOps |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=mongodb,mysql,aws,azure&theme=dark) | ![](https://skillicons.dev/icons?i=git,docker,figma,ps,jira&theme=dark) |
+
+</div>
+
+---
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:imansha.idr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/imanshadilshan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@imansha.idr">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+⭐️ *Thanks for visiting - feel free to explore my repos and drop a star if something catches your eye!*
+
+</div>
